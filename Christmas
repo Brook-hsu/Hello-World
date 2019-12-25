@@ -1,3 +1,5 @@
+//这是一段被附了魔法的咒语，把它复制到你的Dev上，运行看看会有什么事件发生
+
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>
